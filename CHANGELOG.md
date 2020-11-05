@@ -1,3 +1,6 @@
+## 20201105
+* change default ip address to 88 subnet
+
 ## 20201102
 * 常规更新
 
